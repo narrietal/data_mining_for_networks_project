@@ -1,0 +1,2 @@
+# data_mining_for_networks_project
+Project developed for a Data Mining for Networks course at the Sophia Antipolis, Université Côte D'Azur. In this project we implemente an approach to an anomaly de tection system designed for end hosts based on graphlets. Using the concept of graphlets, one can build a profile of an end host based on its IP traffic, and therefore, predict malicious hosts by anomolous activities. 
